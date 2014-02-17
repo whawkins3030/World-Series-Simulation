@@ -1,0 +1,544 @@
+Giants-Tigers World Series Simulation
+
+Game 1:
+
+Inning 1 - Giants
+A. Pagan was out.
+M. Scutaro singled.
+P. Sandoval was out.
+B. Posey was out.
+
+Inning 1 - Tigers
+A. Jackson was out.
+Q. Berry was out.
+M. Cabrera singled.
+P. Fielder homered (M. Cabrera, P. Fielder scored).
+D. Young was out.
+
+Score: Giants 0 Tigers 2
+
+Inning 2 - Giants
+H. Pence homered (H. Pence scored).
+B. Belt was out.
+G. Blanco was out.
+H. Sanchez singled.
+B. Crawford was out.
+
+Inning 2 - Tigers
+A. Dirks was out.
+J. Peralta was out.
+A. Avila was out.
+
+Score: Giants 1 Tigers 2
+
+Inning 3 - Giants
+A. Pagan was out.
+M. Scutaro was out.
+P. Sandoval was out.
+
+Inning 3 - Tigers
+O. Infante singled.
+A. Jackson singled.
+Q. Berry was out.
+M. Cabrera was out.
+P. Fielder singled.
+D. Young singled (O. Infante scored).
+A. Dirks was out.
+
+Score: Giants 1 Tigers 3
+
+Inning 4 - Giants
+B. Posey singled.
+H. Pence was out.
+B. Belt was out.
+G. Blanco was out.
+
+Inning 4 - Tigers
+J. Peralta was out.
+A. Avila was out.
+O. Infante was out.
+
+Score: Giants 1 Tigers 3
+
+Inning 5 - Giants
+H. Sanchez was out.
+B. Crawford was out.
+A. Pagan was out.
+
+Inning 5 - Tigers
+A. Jackson was out.
+Q. Berry was out.
+M. Cabrera was out.
+
+Score: Giants 1 Tigers 3
+
+Inning 6 - Giants
+M. Scutaro singled.
+P. Sandoval singled.
+B. Posey doubled (M. Scutaro scored).
+H. Pence was out.
+B. Belt was out.
+G. Blanco was out.
+
+Inning 6 - Tigers
+P. Fielder singled.
+D. Young was out.
+A. Dirks was out.
+J. Peralta singled.
+A. Avila was out.
+
+Score: Giants 2 Tigers 3
+
+Inning 7 - Giants
+H. Sanchez was out.
+B. Crawford was out.
+A. Pagan was out.
+
+Inning 7 - Tigers
+O. Infante singled.
+A. Jackson was out.
+Q. Berry was out.
+M. Cabrera doubled.
+P. Fielder was out.
+
+Score: Giants 2 Tigers 3
+
+Inning 8 - Giants
+M. Scutaro was out.
+P. Sandoval was out.
+B. Posey doubled.
+H. Pence was out.
+
+Inning 8 - Tigers
+D. Young singled.
+A. Dirks was out.
+J. Peralta was out.
+A. Avila was out.
+
+Score: Giants 2 Tigers 3
+
+Inning 9 - Giants
+B. Belt was out.
+G. Blanco was out.
+H. Sanchez was out.
+
+Inning 9 - Tigers
+O. Infante was out.
+A. Jackson was out.
+Q. Berry singled.
+M. Cabrera was out.
+
+Score: Giants 2 Tigers 3
+
+Game 2:
+
+Inning 1 - Giants
+A. Pagan was out.
+M. Scutaro was out.
+P. Sandoval was out.
+
+Inning 1 - Tigers
+A. Jackson singled.
+Q. Berry singled.
+M. Cabrera doubled (A. Jackson scored).
+P. Fielder was out.
+D. Young singled (Q. Berry scored).
+A. Dirks singled (M. Cabrera scored).
+J. Peralta was out.
+A. Avila was out.
+
+Score: Giants 0 Tigers 3
+
+Inning 2 - Giants
+B. Posey doubled.
+H. Pence singled.
+B. Belt was out.
+G. Blanco doubled (B. Posey scored).
+H. Sanchez was out.
+B. Crawford was out.
+
+Inning 2 - Tigers
+O. Infante was out.
+A. Jackson was out.
+Q. Berry was out.
+
+Score: Giants 1 Tigers 3
+
+Inning 3 - Giants
+A. Pagan was out.
+M. Scutaro was out.
+P. Sandoval was out.
+
+Inning 3 - Tigers
+M. Cabrera was out.
+P. Fielder was out.
+D. Young was out.
+
+Score: Giants 1 Tigers 3
+
+Inning 4 - Giants
+B. Posey singled.
+H. Pence was out.
+B. Belt was out.
+G. Blanco was out.
+
+Inning 4 - Tigers
+A. Dirks singled.
+J. Peralta was out.
+A. Avila was out.
+O. Infante singled.
+A. Jackson was out.
+
+Score: Giants 1 Tigers 3
+
+Inning 5 - Giants
+H. Sanchez was out.
+B. Crawford was out.
+A. Pagan was out.
+
+Inning 5 - Tigers
+Q. Berry was out.
+M. Cabrera doubled.
+P. Fielder was out.
+D. Young singled.
+A. Dirks was out.
+
+Score: Giants 1 Tigers 3
+
+Inning 6 - Giants
+M. Scutaro singled.
+P. Sandoval was out.
+B. Posey was out.
+H. Pence was out.
+
+Inning 6 - Tigers
+J. Peralta singled.
+A. Avila was out.
+O. Infante doubled.
+A. Jackson was out.
+Q. Berry singled (J. Peralta scored).
+M. Cabrera doubled (O. Infante scored).
+P. Fielder was out.
+
+Score: Giants 1 Tigers 5
+
+Inning 7 - Giants
+B. Belt was out.
+G. Blanco was out.
+H. Sanchez was out.
+
+Inning 7 - Tigers
+D. Young tripled.
+A. Dirks was out.
+J. Peralta doubled (D. Young scored).
+A. Avila singled.
+O. Infante was out.
+A. Jackson singled (J. Peralta scored).
+Q. Berry was out.
+
+Score: Giants 1 Tigers 7
+
+Inning 8 - Giants
+B. Crawford singled.
+A. Pagan was out.
+M. Scutaro homered (M. Scutaro, B. Crawford scored).
+P. Sandoval was out.
+B. Posey was out.
+
+Inning 8 - Tigers
+M. Cabrera was out.
+P. Fielder singled.
+D. Young was out.
+A. Dirks singled.
+J. Peralta was out.
+
+Score: Giants 3 Tigers 7
+
+Inning 9 - Giants
+H. Pence singled.
+B. Belt was out.
+G. Blanco singled.
+H. Sanchez doubled (H. Pence scored).
+B. Crawford was out.
+A. Pagan was out.
+
+Inning 9 - Tigers
+A. Avila singled.
+O. Infante was out.
+A. Jackson doubled.
+Q. Berry was out.
+M. Cabrera was out.
+
+Score: Giants 4 Tigers 7
+
+Game 3:
+
+Inning 1 - Giants
+A. Pagan was out.
+M. Scutaro was out.
+P. Sandoval was out.
+
+Inning 1 - Tigers
+A. Jackson was out.
+Q. Berry singled.
+M. Cabrera was out.
+P. Fielder homered (Q. Berry, P. Fielder scored).
+D. Young was out.
+
+Score: Giants 0 Tigers 2
+
+Inning 2 - Giants
+B. Posey was out.
+H. Pence was out.
+B. Belt doubled.
+G. Blanco was out.
+
+Inning 2 - Tigers
+A. Dirks singled.
+J. Peralta singled.
+A. Avila homered (A. Dirks, J. Peralta, A. Avila scored).
+O. Infante was out.
+A. Jackson singled.
+Q. Berry was out.
+M. Cabrera homered (A. Jackson, M. Cabrera scored).
+P. Fielder was out.
+
+Score: Giants 0 Tigers 7
+
+Inning 3 - Giants
+H. Sanchez was out.
+B. Crawford was out.
+A. Pagan was out.
+
+Inning 3 - Tigers
+D. Young was out.
+A. Dirks singled.
+J. Peralta was out.
+A. Avila was out.
+
+Score: Giants 0 Tigers 7
+
+Inning 4 - Giants
+M. Scutaro was out.
+P. Sandoval was out.
+B. Posey was out.
+
+Inning 4 - Tigers
+O. Infante singled.
+A. Jackson was out.
+Q. Berry was out.
+M. Cabrera was out.
+
+Score: Giants 0 Tigers 7
+
+Inning 5 - Giants
+H. Pence was out.
+B. Belt was out.
+G. Blanco was out.
+
+Inning 5 - Tigers
+P. Fielder was out.
+D. Young homered (D. Young scored).
+A. Dirks was out.
+J. Peralta was out.
+
+Score: Giants 0 Tigers 8
+
+Inning 6 - Giants
+H. Sanchez singled.
+B. Crawford doubled.
+A. Pagan singled (H. Sanchez scored).
+M. Scutaro was out.
+P. Sandoval was out.
+B. Posey was out.
+
+Inning 6 - Tigers
+A. Avila was out.
+O. Infante was out.
+A. Jackson was out.
+
+Score: Giants 1 Tigers 8
+
+Inning 7 - Giants
+H. Pence was out.
+B. Belt was out.
+G. Blanco was out.
+
+Inning 7 - Tigers
+Q. Berry was out.
+M. Cabrera was out.
+P. Fielder was out.
+
+Score: Giants 1 Tigers 8
+
+Inning 8 - Giants
+H. Sanchez singled.
+B. Crawford was out.
+A. Pagan was out.
+M. Scutaro singled.
+P. Sandoval doubled (H. Sanchez scored).
+B. Posey was out.
+
+Inning 8 - Tigers
+D. Young was out.
+A. Dirks was out.
+J. Peralta was out.
+
+Score: Giants 2 Tigers 8
+
+Inning 9 - Giants
+H. Pence was out.
+B. Belt was out.
+G. Blanco was out.
+
+Inning 9 - Tigers
+A. Avila singled.
+O. Infante was out.
+A. Jackson singled.
+Q. Berry was out.
+M. Cabrera was out.
+
+Score: Giants 2 Tigers 8
+
+Game 4:
+
+Inning 1 - Giants
+A. Pagan was out.
+M. Scutaro was out.
+P. Sandoval was out.
+
+Inning 1 - Tigers
+A. Jackson was out.
+Q. Berry was out.
+M. Cabrera was out.
+
+Score: Giants 0 Tigers 0
+
+Inning 2 - Giants
+B. Posey singled.
+H. Pence singled.
+B. Belt was out.
+G. Blanco singled.
+H. Sanchez was out.
+B. Crawford was out.
+
+Inning 2 - Tigers
+P. Fielder was out.
+D. Young singled.
+A. Dirks was out.
+J. Peralta was out.
+
+Score: Giants 0 Tigers 0
+
+Inning 3 - Giants
+A. Pagan was out.
+M. Scutaro was out.
+P. Sandoval singled.
+B. Posey singled.
+H. Pence was out.
+
+Inning 3 - Tigers
+A. Avila singled.
+O. Infante was out.
+A. Jackson singled.
+Q. Berry was out.
+M. Cabrera singled.
+P. Fielder was out.
+
+Score: Giants 0 Tigers 0
+
+Inning 4 - Giants
+B. Belt singled.
+G. Blanco was out.
+H. Sanchez was out.
+B. Crawford was out.
+
+Inning 4 - Tigers
+D. Young singled.
+A. Dirks was out.
+J. Peralta was out.
+A. Avila was out.
+
+Score: Giants 0 Tigers 0
+
+Inning 5 - Giants
+A. Pagan was out.
+M. Scutaro was out.
+P. Sandoval was out.
+
+Inning 5 - Tigers
+O. Infante was out.
+A. Jackson singled.
+Q. Berry was out.
+M. Cabrera was out.
+
+Score: Giants 0 Tigers 0
+
+Inning 6 - Giants
+B. Posey singled.
+H. Pence was out.
+B. Belt singled.
+G. Blanco was out.
+H. Sanchez was out.
+
+Inning 6 - Tigers
+P. Fielder was out.
+D. Young was out.
+A. Dirks was out.
+
+Score: Giants 0 Tigers 0
+
+Inning 7 - Giants
+B. Crawford was out.
+A. Pagan was out.
+M. Scutaro was out.
+
+Inning 7 - Tigers
+J. Peralta homered (J. Peralta scored).
+A. Avila singled.
+O. Infante singled.
+A. Jackson singled.
+Q. Berry singled (A. Avila scored).
+M. Cabrera doubled (A. Jackson, O. Infante scored).
+P. Fielder homered (Q. Berry, M. Cabrera, P. Fielder scored).
+D. Young homered (D. Young scored).
+A. Dirks was out.
+J. Peralta was out.
+A. Avila was out.
+
+Score: Giants 0 Tigers 8
+
+Inning 8 - Giants
+P. Sandoval singled.
+B. Posey singled.
+H. Pence homered (P. Sandoval, B. Posey, H. Pence scored).
+B. Belt singled.
+G. Blanco was out.
+H. Sanchez was out.
+B. Crawford was out.
+
+Inning 8 - Tigers
+O. Infante was out.
+A. Jackson was out.
+Q. Berry was out.
+
+Score: Giants 3 Tigers 8
+
+Inning 9 - Giants
+A. Pagan tripled.
+M. Scutaro was out.
+P. Sandoval was out.
+B. Posey was out.
+
+Inning 9 - Tigers
+M. Cabrera doubled.
+P. Fielder singled.
+D. Young was out.
+A. Dirks homered (M. Cabrera, P. Fielder, A. Dirks scored).
+J. Peralta was out.
+A. Avila singled.
+O. Infante singled.
+A. Jackson singled.
+Q. Berry was out.
+
+Score: Giants 3 Tigers 11
