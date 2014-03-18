@@ -1,8 +1,4 @@
 
-# File: WSSimulation.py
-
-# Name: Will Hawkins
-
 # Date: January 10th, 2013
 
 # This program simulates the Giants-Tigers World Series of 2012 by reading
