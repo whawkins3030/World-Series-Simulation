@@ -1,8 +1,4 @@
 
-# File: WSPlayer.py
-
-# Name: Will Hawkins
-
 # Date: January 10th, 2013
 
 # This programe creates instances of each player for the World Series simulation
